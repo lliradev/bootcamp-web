@@ -1,0 +1,8 @@
+soap:
+    country:
+        uri: http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso
+        action: http://www.oorsprong.org/websamples.countryinfo
+
+rest:
+    baseUrl: https://jsonplaceholder.typicode.com
+    users: /users
